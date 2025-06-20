@@ -1,7 +1,9 @@
 # Evoluir-TI
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14" alt="Logo" width="400">
-</p>
+<figure style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14" alt="Logo do SICEUA" width="300">
+  <figcaption>Figura 1 - Logo do SICEUA</figcaption>
+</figure>
+
 # Visão geral
 ## O Desafio
 O desafio central é evoluir o sistema da loja online LUMINI, especializada em roupas fitness, para uma versão completa, funcional e preparada para atender clientes de todo o Brasil.
