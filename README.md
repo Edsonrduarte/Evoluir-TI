@@ -1,11 +1,8 @@
 # Evoluir-TI
 <p align="center">
-  <figure>
-    <img src="https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14" alt="Logo do SICEUA" width="300">
-    <figcaption>Figura 1 - Logo da Tecnocore</figcaption>
-  </figure>
+  <img src="https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14" alt="Logo da Tecnocore" width="300"><br>
+  <em>Figura 1 - Logo da Tecnocore</em>
 </p>
-
 
 # Visão geral
 ## O Desafio
