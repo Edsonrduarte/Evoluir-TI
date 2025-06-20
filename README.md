@@ -1,7 +1,7 @@
 # Evoluir-TI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14" alt="Logo da Tecnocore" width="500"><br>
-  <p>Figura 1 - Logo da Tecnocore</p>
+  <f5>Figura 1 - Logo da Tecnocore</f5>
 </p>
 
 # Visão geral
