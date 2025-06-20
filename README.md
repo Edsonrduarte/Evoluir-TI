@@ -1,5 +1,7 @@
 # Evoluir-TI
-![Image  2](https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14" alt="Logo" width="400">
+</p>
 # Visão geral
 ## O Desafio
 O desafio central é evoluir o sistema da loja online LUMINI, especializada em roupas fitness, para uma versão completa, funcional e preparada para atender clientes de todo o Brasil.
@@ -29,7 +31,7 @@ adaptação às necessidades e feedback dos usuários durante todo o processo de
 ou onde a validação contínua com o usuário é crucial para o sucesso do sistema. Ele promove um desenvolvimento ágil e adaptativo, alinhando as práticas modernas de engenharia de software 
 e desenvolvimento centrado no usuário.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983" alt="Logo" width="2000">
+  <img src="https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983" alt="Logo" width="300">
 </p>
                                         
 
