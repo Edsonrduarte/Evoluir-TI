@@ -28,5 +28,5 @@ O modelo estrela representa o ciclo de vida do desenvolvimento de software, foca
 adaptação às necessidades e feedback dos usuários durante todo o processo de desenvolvimento. É um modelo especialmente útil em projetos onde os requisitos podem mudar com frequência 
 ou onde a validação contínua com o usuário é crucial para o sucesso do sistema. Ele promove um desenvolvimento ágil e adaptativo, alinhando as práticas modernas de engenharia de software 
 e desenvolvimento centrado no usuário.
-![img](https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983)
+                                          ![img](https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983)
 
