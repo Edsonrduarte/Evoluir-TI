@@ -1,5 +1,5 @@
 # Evoluir-TI
-![logo](https://github.com/user-attachments/assets/671b8423-a065-41f7-9577-f9ddd3337a87)
+![Image  2](https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14)
 # Visão geral
 ## O Desafio
 O desafio central é evoluir o sistema da loja online LUMINI, especializada em roupas fitness, para uma versão completa, funcional e preparada para atender clientes de todo o Brasil. A TECNOCORE, empresa responsável pelo desenvolvimento da plataforma, tem como missão entregar um site seguro, moderno e fácil de usar, que proporcione uma excelente experiência de navegação e compra para os usuários.
