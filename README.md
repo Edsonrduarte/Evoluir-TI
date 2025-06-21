@@ -1,7 +1,7 @@
 # Evoluir-TI
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c41ebea7-c7f1-4a98-a913-c3d229bf8e14" alt="Logo da Tecnocore" width="500"><br>
-  <f5>Figura 1 - Logo da Tecnocore</f5>
+  <em>Figura 1 - Logo da Tecnocore</em>
 </p>
 
 # Visão geral
@@ -49,7 +49,7 @@ administradora da loja, responsável pela gestão do site. Os clientes acessarã
 seus pedidos. Já a administradora terá acesso a funcionalidades exclusivas, como cadastro e edição de produtos, controle de estoque, visualização 
 de vendas e gerenciamento de pedidos.
 
-## Quais seriam os problemas no cenário atual? 
+### Quais seriam os problemas no cenário atual? 
 Hoje, a LUMINI depende exclusivamente de vendas presenciais e contatos informais, como o WhatsApp, o que limita o alcance da marca e dificulta a 
 organização das informações. Não há um sistema para registro automático de pedidos, controle de estoque ou comunicação eficiente com os clientes. 
 Isso gera falhas no atendimento, atrasos e dificuldades para acompanhar o crescimento da loja.
