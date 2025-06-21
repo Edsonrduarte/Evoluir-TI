@@ -38,7 +38,8 @@ no usuário.
  <p align="center">
   <img src="https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983" alt="Logo da Tecnocore" width="500"><br>
   <f5>Figura 2 - Ciclo de Vida Estrela</f5>
-</p>                                       
+</p> 
+
 # Análise de Tarefas, Usuários e Função
 
 ### Quem usará o sistema?
@@ -47,6 +48,7 @@ O sistema será utilizado por dois perfis principais: os clientes, que procuram 
 administradora da loja, responsável pela gestão do site. Os clientes acessarão o catálogo, visualizarão produtos, farão compras e acompanharão 
 seus pedidos. Já a administradora terá acesso a funcionalidades exclusivas, como cadastro e edição de produtos, controle de estoque, visualização 
 de vendas e gerenciamento de pedidos.
+
 ## Quais seriam os problemas no cenário atual? 
 Hoje, a LUMINI depende exclusivamente de vendas presenciais e contatos informais, como o WhatsApp, o que limita o alcance da marca e dificulta a 
 organização das informações. Não há um sistema para registro automático de pedidos, controle de estoque ou comunicação eficiente com os clientes. 
