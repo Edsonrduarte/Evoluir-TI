@@ -41,7 +41,7 @@ no usuário.
 </p>                                       
 # Análise de Tarefas, Usuários e Função
 
-## Quem usará o sistema?
+### Quem usará o sistema?
 
 O sistema será utilizado por dois perfis principais: os clientes, que procuram roupas fitness com foco em conforto, estilo e praticidade; e a 
 administradora da loja, responsável pela gestão do site. Os clientes acessarão o catálogo, visualizarão produtos, farão compras e acompanharão 
@@ -52,7 +52,7 @@ Hoje, a LUMINI depende exclusivamente de vendas presenciais e contatos informais
 organização das informações. Não há um sistema para registro automático de pedidos, controle de estoque ou comunicação eficiente com os clientes. 
 Isso gera falhas no atendimento, atrasos e dificuldades para acompanhar o crescimento da loja.
 
-## Cenário e interação atual
+### Cenário e interação atual
 No momento, o protótipo do site já representa interações básicas, como o acesso ao catálogo de produtos, visualização de detalhes, área de login, 
 carrinho de compras e fluxo de finalização de pedidos. A administradora terá acesso a um painel exclusivo, onde poderá adicionar ou remover 
 produtos, atualizar informações e acompanhar as vendas. O sistema está sendo pensado para uso web, com navegação simples e adaptada a diferentes 
