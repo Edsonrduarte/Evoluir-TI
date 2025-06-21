@@ -87,11 +87,11 @@ transformou sua loja, sua rotina e a vida de muitas outras mulheres pelo Brasil.
 A partir das hipóteses, da análise de histórias e da pesquisa com usuários, as personas foram elaboradas para representar os diferentes perfis de 
 pessoas as que utilizarão o produto.
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf9cf97b-f7a9-42e1-a700-8117d6485611" alt="Logo da Tecnocore" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/cf9cf97b-f7a9-42e1-a700-8117d6485611" alt="Logo da Tecnocore" width="5000"><br>
   <f5>Figura 3 - Persona da contadora Maria Cecilia</f5>
 </p> 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1e6f1f78-0a12-4462-90ea-6aa82e22d5a0" alt="Logo da Tecnocore" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/1e6f1f78-0a12-4462-90ea-6aa82e22d5a0" alt="Logo da Tecnocore" width="5000"><br>
   <f5>Figura 4 - Persona da estudante Marcela</f5>
 </p> 
 
