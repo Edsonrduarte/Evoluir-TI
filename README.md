@@ -39,4 +39,46 @@ no usuário.
   <img src="https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983" alt="Logo da Tecnocore" width="500"><br>
   <f5>Figura 2 - Ciclo de Vida Estrela</f5>
 </p>                                       
+# Análise de Tarefas, Usuários e Função
+## Quem usará o sistema?
+O sistema será utilizado por dois perfis principais: os clientes, que procuram roupas fitness com foco em conforto, estilo e praticidade; e a 
+administradora da loja, responsável pela gestão do site. Os clientes acessarão o catálogo, visualizarão produtos, farão compras e acompanharão 
+seus pedidos. Já a administradora terá acesso a funcionalidades exclusivas, como cadastro e edição de produtos, controle de estoque, visualização 
+de vendas e gerenciamento de pedidos.
+## Quais seriam os problemas no cenário atual? 
+Hoje, a LUMINI depende exclusivamente de vendas presenciais e contatos informais, como o WhatsApp, o que limita o alcance da marca e dificulta a 
+organização das informações. Não há um sistema para registro automático de pedidos, controle de estoque ou comunicação eficiente com os clientes. 
+Isso gera falhas no atendimento, atrasos e dificuldades para acompanhar o crescimento da loja.
+## Cenário e interação atual
+No momento, o protótipo do site já representa interações básicas, como o acesso ao catálogo de produtos, visualização de detalhes, área de login, 
+carrinho de compras e fluxo de finalização de pedidos. A administradora terá acesso a um painel exclusivo, onde poderá adicionar ou remover 
+produtos, atualizar informações e acompanhar as vendas. O sistema está sendo pensado para uso web, com navegação simples e adaptada a diferentes 
+dispositivos.
+# Storytelling
+Gabriela Dini sempre acreditou que o universo fitness ia muito além da estética. Para ela, vestir-se bem durante um treino era também uma forma de
+se motivar, se amar e se transformar. Apaixonada por esse propósito, ela decidiu abrir a Loja Lumini, um pequeno espaço físico na cidade de Ubá,
+voltado para mulheres que queriam se sentir confiantes tanto na academia quanto no dia a dia.
+No começo, tudo era feito com muito cuidado e atenção pessoal. Gabriela conhecia o nome de cada cliente, sabia seus gostos, e fazia questão de 
+oferecer peças que uniam conforto, qualidade e estilo. O boca a boca fez a Lumini crescer, tornando-se referência na cidade. Mas conforme o tempo 
+passava, ela começou a enfrentar um dilema.
+
+Apesar do sucesso local, Gabriela sentia que a loja estava limitada. As vendas pelo WhatsApp funcionavam, mas exigiam muito do seu tempo e não 
+conseguiam acompanhar a demanda. Ela queria mais. Queria que mulheres de qualquer lugar do Brasil pudessem conhecer e comprar suas peças, sem 
+depender de atendimento manual ou da distância física. Foi então que surgiu a dúvida:como transformar esse atendimento próximo e personalizado em 
+uma experiência digital de qualidade?
+
+A resposta veio quando conheceu a Tecnocore, uma empresa especializada no desenvolvimento de lojas virtuais. A parceria foi instantânea. Gabriela 
+compartilhou sua visão, seus valores e o estilo único da Lumini, e a equipe da Tecnocore traduziu tudo isso em um site moderno, prático e bonito.
+
+O novo e-commerce da Lumini não era só mais uma loja online. Era um reflexo fiel da essência que Gabriela construiu no espaço físico: 
+aconchegante, elegante e com uma navegação simples. Agora, suas clientes podiam explorar os produtos com facilidade, visualizar todos os detalhes 
+com fotos de alta qualidade, comprar com segurança e ainda acessar tudo pelo celular, de onde estivessem.
+
+Hoje, a Lumini não é apenas um negócio. É um movimento de empoderamento feminino, que veste mulheres reais com roupas pensadas para seus corpos, 
+suas rotinas e seus sonhos. Com a tecnologia da Tecnocore, Gabriela deu um passo rumo ao futuro — e continua colhendo os frutos de uma decisão que 
+transformou sua loja, sua rotina e a vida de muitas outras mulheres pelo Brasil.
+# WHO? 
+## Personas 
+A partir das hipóteses, da análise de histórias e da pesquisa com usuários, as personas foram elaboradas para representar os diferentes perfis de 
+pessoas as que utilizarão o produto.
 
