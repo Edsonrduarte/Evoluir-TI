@@ -78,7 +78,7 @@ Hoje, a Lumini não é apenas um negócio. É um movimento de empoderamento femi
 suas rotinas e seus sonhos. Com a tecnologia da Tecnocore, Gabriela deu um passo rumo ao futuro — e continua colhendo os frutos de uma decisão que 
 transformou sua loja, sua rotina e a vida de muitas outras mulheres pelo Brasil.
 # WHO? 
-## Personas 
+### Personas 
 A partir das hipóteses, da análise de histórias e da pesquisa com usuários, as personas foram elaboradas para representar os diferentes perfis de 
 pessoas as que utilizarão o produto.
 
