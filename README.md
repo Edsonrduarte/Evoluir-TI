@@ -37,7 +37,7 @@ do sistema. Ele promove um desenvolvimento ágil e adaptativo, alinhando as prá
 no usuário.
  <p align="center">
   <img src="https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983" alt="Logo da Tecnocore" width="500"><br>
-  <f5>Figura 2 - Ciclo de Vida Estrela</f5>
+  <em>Figura 2 - Ciclo de Vida Estrela</em>
 </p> 
 
 # Análise de Tarefas, Usuários e Função
@@ -88,13 +88,25 @@ A partir das hipóteses, da análise de histórias e da pesquisa com usuários, 
 pessoas as que utilizarão o produto.
  <p align="center">
   <img src="https://github.com/user-attachments/assets/cf9cf97b-f7a9-42e1-a700-8117d6485611" alt="Logo da Tecnocore" width="5000"><br>
-  <f5>Figura 3 - Persona da contadora Maria Cecilia</f5>
+  <em>Figura 3 - Persona da contadora Maria Cecilia</em>
 </p> 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1e6f1f78-0a12-4462-90ea-6aa82e22d5a0" alt="Logo da Tecnocore" width="5000"><br>
-  <f5>Figura 4 - Persona da estudante Marcela</f5>
+  <img src="https://github.com/user-attachments/assets/1e6f1f78-0a12-4462-90ea-6aa82e22d5a0" width="5000"><br>
+  <em>Figura 4 - Persona da estudante Marcela</em>
 </p> 
+## Mapa de Empatia
+Com o intuito de entender as necessidades e as dores dos usuários, se colocando no lugar dele, foi desenvolvido um mapa de empatia considerando as personas que foram criadas.
 
+### Mapa de Empatia
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abdcdaca-9da1-4f7d-9326-0400e168feaf"  width="5000"><br>
+  <em>Figura 5 - Mapa de Empatia da Maria Cecilia </em>
+</p> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11958fb0-86cf-4a5b-9dfd-f10db6a0f203"  width="5000"><br>
+  <em>Figura 6 - Mapa de Empatia da Marcela</em>
+</p> 
 
 
 
