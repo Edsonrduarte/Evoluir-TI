@@ -136,13 +136,14 @@ A avaliação das tarefas, perfis de usuários e funções no sistema da Lumini 
 validações realizadas ao longo do processo garantiram que o sistema está sendo construído com foco no usuário final, oferecendo uma experiência de compra agradável, segura e prática.
 
 # Engenharia de Requisitos
+
 ## Elicitação de Requisitos
 
 A etapa de elicitação de requisitos foi realizada com base na história da fundadora Gabriela, nos objetivos da loja Lumini e no perfil das usuários. A equipe considerou os principais 
 desafios enfrentados com as vendas por WhatsApp, como a limitação de alcance e a dificuldade na organização dos pedidos. . A partir disso, foram identificadas as necessidades essenciais 
 do sistema: catálogo acessível, login de usuários, finalização de compras e área do usuário. Os requisitos foram registrados em linguagem acessível para facilitar o entendimento por 
 todos os envolvidos no projeto.
-Documento de requisitos a nível de Usuário
+
 [Documento de requisitos a nível de Usuário](URL-do-link)
 
 
