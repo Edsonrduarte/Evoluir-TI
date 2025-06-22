@@ -36,7 +36,7 @@ especialmente útil em projetos onde os requisitos podem mudar com frequência o
 do sistema. Ele promove um desenvolvimento ágil e adaptativo, alinhando as práticas modernas de engenharia de software e desenvolvimento centrado
 no usuário.
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983" alt="Logo da Tecnocore" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/11af51aa-e6f7-4982-acbf-df17ad7ff983" width="500"><br>
   <em>Figura 2 - Ciclo de Vida Estrela</em>
 </p> 
 
@@ -87,14 +87,14 @@ transformou sua loja, sua rotina e a vida de muitas outras mulheres pelo Brasil.
 A partir das hipóteses, da análise de histórias e da pesquisa com usuários, as personas foram elaboradas para representar os diferentes perfis de 
 pessoas as que utilizarão o produto.
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf9cf97b-f7a9-42e1-a700-8117d6485611" alt="Logo da Tecnocore" width="5000"><br>
+  <img src="https://github.com/user-attachments/assets/cf9cf97b-f7a9-42e1-a700-8117d6485611" width="5000"><br>
   <em>Figura 3 - Persona da contadora Maria Cecilia</em>
 </p> 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e6f1f78-0a12-4462-90ea-6aa82e22d5a0" width="5000"><br>
   <em>Figura 4 - Persona da estudante Marcela</em>
 </p> 
-## Mapa de Empatia
+# Mapa de Empatia
 
 Com o intuito de entender as necessidades e as dores dos usuários, se colocando no lugar dele, foi desenvolvido um mapa de empatia considerando as personas que foram criadas.
 
@@ -150,11 +150,35 @@ todos os envolvidos no projeto.
 
 [Documento de requisitos a nível de Usuário](URL-do-link)
 
+## Especificação de Requisitos
+Em seguida, esses requisitos foram refinados para um nível mais técnico, adequado para orientar a programação. Cada ação do usuário foi convertida em funcionalidades claras e 
+estruturadas, com foco em manter a navegação simples, intuitiva e responsiva.
 
+[Documento de requisitos a nível de o Sistema](URL-do-link)
 
+# Avaliação – Especificação de Requisitos
+### Validação de requisitos com o cliente
 
+A reunião com a cliente  foi realizada no formato de workshop, com o objetivo de validar os requisitos do sistema e do protótipo da loja virtual Lumini. Durante o encontro, os membros 
+da equipe fizeram perguntas direcionadas para confirmar se os requisitos estavam alinhados com o que havia sido discutido nas reuniões anteriores.
 
+Cada requisito foi apresentado individualmente para que a cliente pudesse aprovar ou sugerir alterações. Também foi feito um tour pelo protótipo desenvolvido até o momento, permitindo 
+que a cliente visualizasse as funcionalidades, a estética e a usabilidade da plataforma.
 
+Durante essa validação, a cliente sugeriu melhorias principalmente voltadas à navegação do site, como ajustes na organização das categorias e clareza no processo de compra, com foco em 
+facilitar a jornada da cliente final.
+
+As observações da cliente foram registradas e transformadas em novos requisitos. A equipe, então, iniciou o processo de refinamento dessas informações, ajustando o sistema e o protótipo 
+para garantir uma experiência de compra mais prática, rápida e visualmente agradável de acordo com a proposta da Lumini.
+
+# Projeto Conceitual e Especificação do Design
+## Identidade Visual
+
+Para a identidade visual da loja virtual Lumini, foi utilizada a logo original da marca, que já transmite modernidade, leveza e conexão com o universo fitness feminino.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/304c4485-92a2-459c-9571-0a41f031488a"  width="5000"><br>
+  <em>Figura 7 - Identidade Visual da Logo da LUMINI</em>
+</p> 
 
 
 
