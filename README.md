@@ -95,6 +95,7 @@ pessoas as que utilizarão o produto.
   <em>Figura 4 - Persona da estudante Marcela</em>
 </p> 
 ## Mapa de Empatia
+
 Com o intuito de entender as necessidades e as dores dos usuários, se colocando no lugar dele, foi desenvolvido um mapa de empatia considerando as personas que foram criadas.
 
 ### Mapa de Empatia
@@ -107,8 +108,11 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
   <img src="https://github.com/user-attachments/assets/11958fb0-86cf-4a5b-9dfd-f10db6a0f203"  width="5000"><br>
   <em>Figura 6 - Mapa de Empatia da Marcela</em>
 </p> 
+
 # Avaliação – Análise de Tarefas, Usuários e Funções
+
 ### Análise de Tarefas
+
 Para compreender as tarefas essenciais que os usuários da loja virtual Lumini precisariam realizar, partimos da análise do problema, das reuniões com a dona da loja fictícia (Gabriela) 
 e da coleta de requisitos da equipe. Com base nisso, mapeamos o passo a passo que o usuário realiza dentro da plataforma — como buscar produtos, adicioná-los ao carrinho, finalizar uma 
 compra e acessar a área do usuário.
