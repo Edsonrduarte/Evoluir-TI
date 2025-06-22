@@ -176,9 +176,10 @@ para garantir uma experiência de compra mais prática, rápida e visualmente ag
 
 Para a identidade visual da loja virtual Lumini, foi utilizada a logo original da marca, que já transmite modernidade, leveza e conexão com o universo fitness feminino.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/304c4485-92a2-459c-9571-0a41f031488a"  width="500"><br>
+  <img src="https://github.com/user-attachments/assets/8dfa7e0c-a423-4d90-9e9a-d1c067bd46be"  width="1000"><br>
   <em>Figura 7 - Identidade Visual da Logo da LUMINI</em>
 </p> 
+
 
 
 
