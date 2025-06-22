@@ -107,6 +107,54 @@ Com o intuito de entender as necessidades e as dores dos usuários, se colocando
   <img src="https://github.com/user-attachments/assets/11958fb0-86cf-4a5b-9dfd-f10db6a0f203"  width="5000"><br>
   <em>Figura 6 - Mapa de Empatia da Marcela</em>
 </p> 
+# Avaliação – Análise de Tarefas, Usuários e Funções
+### Análise de Tarefas
+Para compreender as tarefas essenciais que os usuários da loja virtual Lumini precisariam realizar, partimos da análise do problema, das reuniões com a dona da loja fictícia (Gabriela) 
+e da coleta de requisitos da equipe. Com base nisso, mapeamos o passo a passo que o usuário realiza dentro da plataforma — como buscar produtos, adicioná-los ao carrinho, finalizar uma 
+compra e acessar a área do usuário.
+
+Utilizamos a Análise Hierárquica de Tarefas (HTA) para estruturar de forma clara as ações envolvidas em cada processo. Essa ferramenta ajudou a equipe a visualizar as 
+etapas principais e secundárias que compõem a jornada do cliente, o que facilitou a identificação de pontos de melhoria e de oportunidades para otimização da navegação.
+
+### Usuários
+Os documentos de personas foram atualizados com base nas características do público-alvo da Lumini, formado por mulheres jovens, ativas e conectadas com o universo fitness. As personas 
+foram criadas considerando dados como idade, estilo de vida, necessidades e hábitos de compra. Também usamos o mapa de empatia e o storytelling da fundadora da loja para aprofundar 
+nossa compreensão sobre as motivações e comportamentos dos usuários.
+
+As representações geradas passaram por uma validação com base no perfil ideal de cliente definido pela própria Gabriela (personagem da história). O retorno foi positivo, o que nos 
+permitiu ter maior segurança para orientar as decisões de design e funcionalidades do sistema.
+
+### Funções
+A análise de funções foi centrada nos papéis que os usuários desempenham no sistema: cliente visitante, cliente logado e administrador. Para cada tipo de usuário, definimos os recursos 
+disponíveis, como visualização de produtos, realização de compras, edição de informações pessoais e gestão de pedidos no caso do administrador.
+
+Mapeamos o fluxo de interação para cada função, assegurando que as tarefas mais importantes fossem acessíveis de forma simples e clara. A navegação foi projetada para ser fluida tanto 
+em dispositivos móveis quanto em computadores, o que foi validado em testes com usuários simulados durante o protótipo.
+
+### Conclusão
+A avaliação das tarefas, perfis de usuários e funções no sistema da Lumini permitiu à equipe estruturar uma plataforma mais eficaz, intuitiva e alinhada com os objetivos do projeto. As 
+validações realizadas ao longo do processo garantiram que o sistema está sendo construído com foco no usuário final, oferecendo uma experiência de compra agradável, segura e prática.
+
+# Engenharia de Requisitos
+## Elicitação de Requisitos
+
+A etapa de elicitação de requisitos foi realizada com base na história da fundadora Gabriela, nos objetivos da loja Lumini e no perfil das usuários. A equipe considerou os principais 
+desafios enfrentados com as vendas por WhatsApp, como a limitação de alcance e a dificuldade na organização dos pedidos. . A partir disso, foram identificadas as necessidades essenciais 
+do sistema: catálogo acessível, login de usuários, finalização de compras e área do usuário. Os requisitos foram registrados em linguagem acessível para facilitar o entendimento por 
+todos os envolvidos no projeto.
+Documento de requisitos a nível de Usuário
+[Documento de requisitos a nível de Usuário](URL-do-link)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
