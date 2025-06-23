@@ -193,6 +193,7 @@ visualização dos produtos e convidar o usuário a explorar a loja com facilida
 </p> 
 
 # Avaliação - Projeto conceitual e especificações do design 
+
 ### Metodologia de Validação
 A validação do projeto conceitual da loja virtual Lumini foi feita com base nos requisitos definidos, avaliando se o layout da página principal atendia aos critérios de usabilidade, 
 clareza e identidade visual. A estrutura foi analisada considerando a organização das informações, facilidade de navegação e destaque para os produtos, garantindo uma experiência 
@@ -216,11 +217,12 @@ confiança da equipe e direciona os próximos passos do desenvolvimento.
 A prototipação em alta fidelidade foi feita no Figma, transformando o wireframe inicial em uma interface mais detalhada e funcional. Durante esse processo, foram realizados ajustes para 
 melhorar a experiência da usuária e tornar a navegação mais intuitiva.
 O protótipo pode ser acessado pelo link abaixo, com a tela principal representando a estrutura geral da loja virtual.
+
 [Acessar protótipo no Figma](URL-do-link)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0791d7a2-8513-4a69-857e-1caef54ec3cc"  width="1000"><br>
-  <em>Figura 9 Wireframe tela de Login</em>
+  <em>Figura 9 - Wireframe tela de Login</em>
 </p> 
 
 <p align="center">
@@ -235,8 +237,11 @@ O protótipo pode ser acessado pelo link abaixo, com a tela principal representa
   <img src="https://github.com/user-attachments/assets/e47292ce-864d-494c-b46d-16b55e2c9452"  width="1000"><br>
   <em>Figura 12 - Wireframe tela do Carrinho</em>
 </p> 
+
 # Avaliação do Protótipo
+
 # Avaliação Parcial de Requisitos e Funcionalidades
+
 ### Metodologia de Avaliação
 
 Para avaliar o protótipo da loja virtual Lumini, a equipe analisou se as funcionalidades essenciais e a estrutura da interface estavam de acordo com os requisitos definidos 
@@ -248,8 +253,11 @@ principal. Foram observados pontos de melhoria relacionados à disposição dos 
 
 ### Resultado da Avaliação
 A avaliação mostrou que o protótipo atendeu, em grande parte, às expectativas da equipe e aos requisitos definidos. No entanto, foram identificadas algumas melhorias importantes:
+
 •	Reorganizar o menu para dar mais destaque às categorias principais.
+
 •	Ajustar o tamanho de imagens em banners para melhorar a legibilidade em dispositivos móveis.
+
 •	Simplificar o botão de acesso ao login e cadastro.
 
 ## Avaliação Final de Usabilidade
@@ -264,16 +272,24 @@ responsividade, a clareza dos textos e imagens, e a facilidade para localizar pr
 
 ### Resultado da Avaliação
 A análise identificou pontos positivos, como a boa estrutura visual e o carregamento rápido da página. Como sugestão de melhoria, foi indicado:
+
 •	Incluir uma opção de filtro na página principal para facilitar a busca por tipo de produto.
+
 •	Adicionar um botão de acesso direto ao carrinho visível na navegação.
+
 Essas sugestões foram anotadas e incluídas como requisitos complementares para as próximas versões do sistema.
 
 # Trabalhos Futuros
 ### Os próximos passos do projeto incluem:
+
 •	Adequações com base no feedback recebido, como ajustes no layout e navegação.
+
 •	Implementação de sugestões, como filtros de produto e atalhos visuais para o carrinho.
+
 •	Testes adicionais com usuárias para validar as melhorias realizadas.
+
 •	Refinamento contínuo do protótipo, sempre baseado na experiência real das usuárias e nas necessidades do negócio.
+
 Essa abordagem garante que o sistema continue evoluindo para oferecer uma experiência moderna, prática e atrativa para quem acessa a loja Lumini.
 
 # Conclusão
