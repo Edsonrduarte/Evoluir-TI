@@ -254,11 +254,9 @@ principal. Foram observados pontos de melhoria relacionados à disposição dos 
 ### Resultado da Avaliação
 A avaliação mostrou que o protótipo atendeu, em grande parte, às expectativas da equipe e aos requisitos definidos. No entanto, foram identificadas algumas melhorias importantes:
 
-•	Reorganizar o menu para dar mais destaque às categorias principais.
-
-•	Ajustar o tamanho de imagens em banners para melhorar a legibilidade em dispositivos móveis.
-
-•	Simplificar o botão de acesso ao login e cadastro.
+- Reorganizar o menu para dar mais destaque às categorias principais.
+- Ajustar o tamanho de imagens em banners para melhorar a legibilidade em dispositivos móveis.
+- Simplificar o botão de acesso ao login e cadastro.
 
 ## Avaliação Final de Usabilidade
 
@@ -273,9 +271,8 @@ responsividade, a clareza dos textos e imagens, e a facilidade para localizar pr
 ### Resultado da Avaliação
 A análise identificou pontos positivos, como a boa estrutura visual e o carregamento rápido da página. Como sugestão de melhoria, foi indicado:
 
-•	Incluir uma opção de filtro na página principal para facilitar a busca por tipo de produto.
-
-•	Adicionar um botão de acesso direto ao carrinho visível na navegação.
+- Incluir uma opção de filtro na página principal para facilitar a busca por tipo de produto.
+- Adicionar um botão de acesso direto ao carrinho visível na navegação.
 
 Essas sugestões foram anotadas e incluídas como requisitos complementares para as próximas versões do sistema.
 
