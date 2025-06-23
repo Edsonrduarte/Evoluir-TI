@@ -179,10 +179,108 @@ Para a identidade visual da loja virtual Lumini, foi utilizada a logo original d
   <img src="https://github.com/user-attachments/assets/8dfa7e0c-a423-4d90-9e9a-d1c067bd46be"  width="1000"><br>
   <em>Figura 7 - Identidade Visual da Logo da LUMINI</em>
 </p> 
+# Wireframe
+Com base nas orientações e preferências da cliente, foi desenvolvido o wireframe da página principal da loja virtual Lumini. A estrutura foi pensada para oferecer uma navegação clara, 
+moderna e funcional, priorizando a apresentação dos produtos e a experiência do usuário logo no primeiro acesso.
 
+A tela conta com elementos essenciais como menu superior, banner com destaque visual, categorias principais e destaques promocionais. O layout foi organizado para facilitar a 
+visualização dos produtos e convidar o usuário a explorar a loja com facilidade.
 
+## Wireframe completo
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20cc1890-b067-4efd-847a-c2101fcf7821"  width="1000"><br>
+  <em>Figura 8 - Wireframe tela Inicial</em>
+</p> 
 
+# Avaliação - Projeto conceitual e especificações do design 
+### Metodologia de Validação
+A validação do projeto conceitual da loja virtual Lumini foi feita com base nos requisitos definidos, avaliando se o layout da página principal atendia aos critérios de usabilidade, 
+clareza e identidade visual. A estrutura foi analisada considerando a organização das informações, facilidade de navegação e destaque para os produtos, garantindo uma experiência 
+moderna e funcional para as usuárias.
 
+### Verificação das Especificações
+Para garantir que o projeto estivesse de acordo com os objetivos definidos, foi feita uma verificação geral das especificações. Isso incluiu a análise das funcionalidades essenciais, 
+como exibição de produtos e navegação fluida; dos requisitos não funcionais, como desempenho e usabilidade; e também das preferências visuais, como cores, fontes e organização do 
+layout. O foco foi garantir uma loja funcional, agradável e fácil de usar para as clientes da Lumini.
+
+### Feedback
+O feedback sobre o projeto da loja virtual Lumini foi positivo. As escolhas de layout, identidade visual e organização da página principal foram bem avaliadas, mostrando que o sistema 
+está no caminho certo. Esse retorno reforça que o conceito criado está alinhado com os objetivos propostos e com a experiência desejada pelas usuárias.
+
+### Conclusão
+A avaliação do projeto conceitual e do design confirmou que as decisões tomadas até agora seguem de forma coerente com os requisitos definidos. A boa recepção do protótipo fortalece a 
+confiança da equipe e direciona os próximos passos do desenvolvimento.
+
+# Prototipação
+## Prototipação – Alta Fidelidade
+A prototipação em alta fidelidade foi feita no Figma, transformando o wireframe inicial em uma interface mais detalhada e funcional. Durante esse processo, foram realizados ajustes para 
+melhorar a experiência da usuária e tornar a navegação mais intuitiva.
+O protótipo pode ser acessado pelo link abaixo, com a tela principal representando a estrutura geral da loja virtual.
+[Acessar protótipo no Figma](URL-do-link)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0791d7a2-8513-4a69-857e-1caef54ec3cc"  width="1000"><br>
+  <em>Figura 9 Wireframe tela de Login</em>
+</p> 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73ca6b14-dfa1-4ea6-9268-8a70464b2b41"  width="1000"><br>
+  <em>Figura 10 - Wireframe tela Inicial</em>
+</p> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34df5e50-65ea-4157-92f8-670b245cd729"  width="1000"><br>
+  <em>Figura 11 - Wireframe tela do Produto</em>
+</p> 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e47292ce-864d-494c-b46d-16b55e2c9452"  width="1000"><br>
+  <em>Figura 12 - Wireframe tela do Carrinho</em>
+</p> 
+# Avaliação do Protótipo
+# Avaliação Parcial de Requisitos e Funcionalidades
+### Metodologia de Avaliação
+
+Para avaliar o protótipo da loja virtual Lumini, a equipe analisou se as funcionalidades essenciais e a estrutura da interface estavam de acordo com os requisitos definidos 
+inicialmente. O objetivo foi verificar se o design e as interações estavam coerentes com as necessidades das usuárias e com a proposta da loja.
+
+### Execução da Avaliação
+Durante a avaliação interna, a equipe navegou pelo protótipo testando aspectos como o menu de navegação, destaque de produtos, clareza visual, responsividade e fluidez da página 
+principal. Foram observados pontos de melhoria relacionados à disposição dos elementos, acesso às categorias e clareza nos botões de ação.
+
+### Resultado da Avaliação
+A avaliação mostrou que o protótipo atendeu, em grande parte, às expectativas da equipe e aos requisitos definidos. No entanto, foram identificadas algumas melhorias importantes:
+•	Reorganizar o menu para dar mais destaque às categorias principais.
+•	Ajustar o tamanho de imagens em banners para melhorar a legibilidade em dispositivos móveis.
+•	Simplificar o botão de acesso ao login e cadastro.
+
+## Avaliação Final de Usabilidade
+
+### Metodologia de Avaliação
+Na avaliação final, a equipe testou a usabilidade do protótipo em diferentes dispositivos, simulando o uso por uma cliente comum. O foco foi avaliar a navegação, clareza dos elementos e 
+eficiência na jornada de compra.
+
+### Execução da Avaliação
+Durante a simulação, foi testado o fluxo principal da usuária: acessar o site, navegar pelos produtos, visualizar detalhes e simular uma adição ao carrinho. Foram observados a 
+responsividade, a clareza dos textos e imagens, e a facilidade para localizar produtos.
+
+### Resultado da Avaliação
+A análise identificou pontos positivos, como a boa estrutura visual e o carregamento rápido da página. Como sugestão de melhoria, foi indicado:
+•	Incluir uma opção de filtro na página principal para facilitar a busca por tipo de produto.
+•	Adicionar um botão de acesso direto ao carrinho visível na navegação.
+Essas sugestões foram anotadas e incluídas como requisitos complementares para as próximas versões do sistema.
+
+# Trabalhos Futuros
+### Os próximos passos do projeto incluem:
+•	Adequações com base no feedback recebido, como ajustes no layout e navegação.
+•	Implementação de sugestões, como filtros de produto e atalhos visuais para o carrinho.
+•	Testes adicionais com usuárias para validar as melhorias realizadas.
+•	Refinamento contínuo do protótipo, sempre baseado na experiência real das usuárias e nas necessidades do negócio.
+Essa abordagem garante que o sistema continue evoluindo para oferecer uma experiência moderna, prática e atrativa para quem acessa a loja Lumini.
+
+# Conclusão
+Com essa nova fase, encerramos a entrega do Projeto Integrador sob orientação do professor Carlos Henrique. O projeto simulou o desenvolvimento real de um sistema de e-commerce, 
+promovendo o trabalho em equipe e permitindo vivenciar na prática as etapas de um projeto de software – da documentação à criação de um protótipo funcional. Durante o processo, 
+cada integrante assumiu um papel importante dentro da empresa fictícia, como Designer, Product Owner, Analista e Desenvolvedor, compreendendo melhor suas responsabilidades e 
+contribuições dentro de um time de desenvolvimento.
 
 
 
