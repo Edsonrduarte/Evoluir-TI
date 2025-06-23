@@ -276,7 +276,7 @@ A análise identificou pontos positivos, como a boa estrutura visual e o carrega
 
 Essas sugestões foram anotadas e incluídas como requisitos complementares para as próximas versões do sistema.
 
-# Trabalhos Futuros
+## Trabalhos Futuros
 ### Os próximos passos do projeto incluem:
 
 - Adequações com base no feedback recebido, como ajustes no layout e navegação.
