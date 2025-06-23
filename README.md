@@ -240,7 +240,7 @@ O protótipo pode ser acessado pelo link abaixo, com a tela principal representa
 
 # Avaliação do Protótipo
 
-# Avaliação Parcial de Requisitos e Funcionalidades
+## Avaliação Parcial de Requisitos e Funcionalidades
 
 ### Metodologia de Avaliação
 
