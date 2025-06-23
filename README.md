@@ -283,11 +283,8 @@ Essas sugestões foram anotadas e incluídas como requisitos complementares para
 ### Os próximos passos do projeto incluem:
 
 •	Adequações com base no feedback recebido, como ajustes no layout e navegação.
-
 •	Implementação de sugestões, como filtros de produto e atalhos visuais para o carrinho.
-
 •	Testes adicionais com usuárias para validar as melhorias realizadas.
-
 •	Refinamento contínuo do protótipo, sempre baseado na experiência real das usuárias e nas necessidades do negócio.
 
 Essa abordagem garante que o sistema continue evoluindo para oferecer uma experiência moderna, prática e atrativa para quem acessa a loja Lumini.
